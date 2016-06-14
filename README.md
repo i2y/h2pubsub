@@ -1,2 +1,2 @@
 # h2pubsub
-experimental project (HTTP2 Pub/Sub)
+experimental project (HTTP/2 Pub/Sub)
